@@ -1,0 +1,24 @@
+/* User Tag Div */
+.clearfix{clear: both;} 
+.mg_0 {margin:0;}
+.gtu-main-div{padding: 3px; border: 1px solid #ddd; height:auto;background-color:#fff;min-height: 24px;}
+.gtu-main-div input{float: left;font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#000;width:auto;height: 24px;border:none;padding:0;outline:0;}
+.gtu-main-div>.selected-user{float:left;width: auto;position:relative;}
+.gtu-main-div>.selected-user>div{float:left;font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#444444;text-align:left;text-transform:capitalize;background-color:#eeeeee;width:auto;height:15px;padding:3px 8px;margin:2px 3px;}
+.gtu-main-div>.selected-user>div a.btnClose{margin:0 1px 0 5px; text-decoration:none;color: #3d373d;}
+.gtu-main-div>.gtu-main-div-progress{width:inherit; z-index: 1005; position: absolute;top:15px;}
+.gtu-main-div>.gtu-main-div-progress >img{border-width: 0px;margin: 0% 0 0 45%; text-align: center; height: 8px;}
+.gtu-main-dropshadow{-webkit-box-shadow:2px 2px 6px 0px rgba(184, 184, 184, 0.60);-moz-box-shadow:2px 2px 6px 0px rgba(184, 184, 184, 0.60);box-shadow:2px 2px 6px 0px rgba(184, 184, 184, 0.60);}
+.gtu-main-listdiv{width:232px;height:auto;background-color:#fff;border:1px solid #dddddd;position:absolute;}
+.gtu-main-listdiv{padding:8px 0;}.adn-member-list{padding:0px 0 22px 0;}
+.gtu-main-listdiv ul,.adn-member-list ul{margin:0; padding:0;list-style:none;}
+.gtu-main-listdiv ul li,.adn-member-list ul li{font-family:Arial, Helvetica, sans-serif;color:#000;font-size:12px;}
+.gtu-main-listdiv ul li .photo a{margin:0; padding:0;}
+.gtu-main-listdiv ul li .photo{float:left;width:23px; text-align:center;margin-right:5px;}
+.gtu-main-listdiv ul li .photo img{border:none; text-align:center;}
+.gtu-main-listdiv ul li .name{float:left;width:174px; height:auto; color:#000;line-height:23px;}
+.gtu-main-listdiv ul li .name a{color:#000; text-decoration:none; font-weight:normal;}
+.gtu-main-listdiv ul li{padding:6px 0 6px 23px;}
+.gtu-main-listdiv ul li a,.adn-member-list ul li a{color:#000;text-decoration:none;}
+.gtu-main-listdiv ul li:hover{background-color:#f2f2f2;cursor:pointer;}
+body > .BackdropSelect_usertag { display: none; position: fixed; top: 0px; right: 0px; left: 0px; bottom: 0px; width: 100%; z-index: 999; }
